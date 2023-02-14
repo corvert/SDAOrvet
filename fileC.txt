@@ -1,1 +1,1 @@
-Adding function C
+this is a conntent of file C
