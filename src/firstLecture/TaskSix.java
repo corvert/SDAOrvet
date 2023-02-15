@@ -9,8 +9,8 @@ public class TaskSix {
         int n = sc.nextInt();
         double h = 0;
         for (int i = 1; i <= n; i++) {
-            h = h + (double) 1 / i;
+            h += (double) 1 / i;
         }
-        System.out.println(h);
+        System.out.println(n + " harmonic sum is " + h);
     }
 }
