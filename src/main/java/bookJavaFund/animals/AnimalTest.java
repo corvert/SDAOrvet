@@ -1,7 +1,5 @@
 package bookJavaFund.animals;
 
-import bookJavaFund.animals.Animal;
-
 public class AnimalTest {
     public static void main(String[] args) {
         Cat myCat = new Cat();

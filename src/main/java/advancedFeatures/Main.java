@@ -1,10 +1,10 @@
 package advancedFeatures;
 
 import advancedFeatures.lecture02.Animal;
-import advancedFeatures.lecture02.Dog;
 import advancedFeatures.lecture02.Eagle;
 
 public class Main {
+
 
     // A Class is a blueprint for creating an object
     // an INSTANCE is the construction of Your object

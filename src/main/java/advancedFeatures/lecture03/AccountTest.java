@@ -1,8 +1,5 @@
 package advancedFeatures.lecture03;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class AccountTest {
     public static void main(String[] args) {
         Account checkingAccount = new CheckingAccount(200, "EE1234567");

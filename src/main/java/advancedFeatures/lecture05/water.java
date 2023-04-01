@@ -2,6 +2,6 @@ package advancedFeatures.lecture05;
 
 
 
-public class water {
+public class Water {
 
 }

@@ -1,7 +1,5 @@
 package advancedFeatures.lecture03;
 
-import java.sql.Array;
-
 public class Bank {
     private Account[] accounts;
     private int numOfAccounts;

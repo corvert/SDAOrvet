@@ -14,5 +14,13 @@ public class Book {
         double dayTwo = sc.nextDouble();
         System.out.println(stock + " has changed " + (dayTwo/dayOne*100-100)  + "% in one day");
 
+        String data = "Hello";
+        String data1 = "Hello";
+        if (data.equals(data1)){
+            System.out.println("Equal");
+        } else {
+            System.out.println("Not");
+        }
+
     }
 }

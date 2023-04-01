@@ -1,7 +1,5 @@
 package bookJavaFund.person;
 
-import advancedFeatures.lecture02.Dog;
-
 public class PersonTest {
     public static void main(String[] args) {
         Person me = new Person();

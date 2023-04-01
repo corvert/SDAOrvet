@@ -1,7 +1,5 @@
 package advancedFeatures.lecture04.exercies;
 
-import java.util.Arrays;
-
 public class LibraryTest {
     public static void main(String[] args) {
         try {
