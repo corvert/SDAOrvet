@@ -1,0 +1,13 @@
+/target/
+/.idea/
+/.tmp.drivedownload/
+/.tmp.driveupload/
+/account.csv
+/Adult.csv
+/input.txt
+/output.txt
+/pom.xml
+/README.md
+/SDA.iml
+/tmp.txt
+/users.csv
