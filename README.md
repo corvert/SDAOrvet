@@ -1,5 +1,5 @@
-![](C:\Users\Laptop\Downloads\header.png)
+![header](C:\Users\Laptop\Downloads\header.png)
 
-![](C:\Users\Laptop\Downloads\tables.png)
+![tables](C:\Users\Laptop\Downloads\tables.png)
 
-![](C:\Users\Laptop\Downloads\diagram.png)
+![diagrm](C:\Users\Laptop\Downloads\diagram.png)
